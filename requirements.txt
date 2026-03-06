@@ -1,0 +1,8 @@
+scapy
+psutil
+nmap
+cryptography
+requests
+paramiko
+pyyaml
+pandas
