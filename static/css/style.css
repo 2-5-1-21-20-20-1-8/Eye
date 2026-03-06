@@ -1,0 +1,16 @@
+.dashboard {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard h1 {
+    color: #333;
+}
+
+.dashboard p {
+    font-size: 14px;
+    line-height: 1.5;
+    color: #666;
+}
