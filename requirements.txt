@@ -1,8 +1,9 @@
-scapy
-psutil
-nmap
-cryptography
+Flask
 requests
-paramiko
-pyyaml
+scikit-learn
 pandas
+numpy
+matplotlib
+pyshark
+scanless
+cryptography
