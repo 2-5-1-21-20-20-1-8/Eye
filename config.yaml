@@ -1,0 +1,11 @@
+network_monitoring:
+  enabled: true
+  frequency: "5m"
+
+audit_scanning:
+  enabled: true
+  schedule: "@daily"
+
+threat_detection:
+  enabled: true
+  sensitivity: "high"
